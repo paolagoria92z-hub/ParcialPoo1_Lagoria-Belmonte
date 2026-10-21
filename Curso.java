@@ -1,7 +1,6 @@
 import java.util.ArrayList;
 
-public class ejercicio2
- {
+public class Curso { 
     private String nombre;
     private int cupoMaximo;
     private ArrayList<String> inscriptos;
